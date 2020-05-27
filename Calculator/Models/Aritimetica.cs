@@ -7,6 +7,7 @@ namespace Calculator.Models
 {
     public class Aritimetica
     {
+        // mudaça comentada
         public decimal N1 { get; set; }
         public decimal N2 { get; set; }
         public decimal N3 { get; set; }
